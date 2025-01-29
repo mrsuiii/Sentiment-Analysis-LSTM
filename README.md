@@ -4,10 +4,6 @@
 Connect with me on social media and explore my work:
 
 
-**Special Thanks to GitHub Sponsors**
-
-## The project purposes to predict the user rating based on the comments or review.
-
 ## Library Requirements
  - Tensorflow
  - NLTK
@@ -61,3 +57,9 @@ Follow these steps to install and set up the project directly from the GitHub re
 
 5. **Run the Notebook**
    - Just run the notebook like usual
+
+## Training Log
+
+Below is an example of the training log for our model:
+
+![Training Log](training_log.png)
