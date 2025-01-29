@@ -1,8 +1,5 @@
 # Amazon alexa 5 class sentiment classifier
-
-
-Connect with me on social media and explore my work:
-
+This project builds a classifier that predicts the rating of Amazon Alexa product reviews, based on text input (user reviews). The model categorizes reviews into 5 classes (ratings 1 through 5), helping to analyze overall sentiment and user satisfaction regarding Alexa products.
 
 ## Library Requirements
  - Tensorflow
